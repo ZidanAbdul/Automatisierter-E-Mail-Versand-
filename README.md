@@ -2,7 +2,7 @@
 
 Dieses Python-Skript sendet personalisierte Bewerbungen per E-Mail an eine Liste von Firmen, die in einer Excel-Datei gespeichert sind. Es verwendet smtplib zur Verbindung mit einem SMTP-Server (z. B. Gmail) und fügt ein PDF-Dokument als Anhang hinzu.
 
-🔧 Voraussetzungen
+Voraussetzungen
 
 Python 3.x
 
